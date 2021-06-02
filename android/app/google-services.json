@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "37099163256",
+    "project_id": "delivaryboy-1b219",
+    "storage_bucket": "delivaryboy-1b219.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:37099163256:android:030d58e2ef2a4d2193e78d",
+        "android_client_info": {
+          "package_name": "com.coolnet.delivryBoy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "37099163256-afm7ic0mbbqvi3kch1ifkilotaq316bn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9OhRnSevYODi8aFMp-Yr8v1tUxXzkE2A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "37099163256-afm7ic0mbbqvi3kch1ifkilotaq316bn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,14 @@
+<svg id="Component_9_1" data-name="Component 9 – 1" xmlns="http://www.w3.org/2000/svg" width="31.966" height="30.966" viewBox="0 0 31.966 30.966">
+  <g id="Group_537" data-name="Group 537" transform="translate(-316 -230.034)">
+    <g id="Group_211" data-name="Group 211" transform="translate(0 23)">
+      <g id="radio_button_unchecked-24px" transform="translate(316 214)">
+        <path id="Path_354" data-name="Path 354" d="M0,0H24V24H0Z" fill="none"/>
+        <path id="Path_355" data-name="Path 355" d="M12,2A10,10,0,1,0,22,12,10,10,0,0,0,12,2Zm0,18a8,8,0,1,1,8-8A8,8,0,0,1,12,20Z" fill="#ff6d00"/>
+      </g>
+      <g id="done-24px" transform="translate(319 207.034)">
+        <path id="Path_356" data-name="Path 356" d="M0,0H28.966V28.966H0Z" fill="none"/>
+        <path id="Path_357" data-name="Path 357" d="M10.159,18.393,5.09,13.324,3.4,15.014l6.759,6.759L24.642,7.29,22.952,5.6Z" transform="translate(0.703 1.159)" fill="#ff6d00"/>
+      </g>
+    </g>
+  </g>
+</svg>
